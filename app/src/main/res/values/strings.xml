@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ElCount</string>
+    <string name="action_settings">Settings</string>
+    <string name="Add_type_count">Добавить вид счетчика...</string>
+
+    <string name="Count1">Электрический</string>
+    <string name="Count2">Водный</string>
+    <string name="Count3">Газовый</string>
+
+    <string name="Add_count">Добавить счетчики...</string>
+
+    <string name="Add_addr">Добавить адрес...</string>
+
+    <string name="Add_data">Внести данные...</string>
+</resources>
